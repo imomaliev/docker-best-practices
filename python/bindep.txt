@@ -1,0 +1,3 @@
+# https://docs.opendev.org/opendev/bindep/latest/readme.html#writing-requirements-files
+# base
+build-essential ==12.6
